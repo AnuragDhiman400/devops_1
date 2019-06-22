@@ -1,8 +1,8 @@
 # devops_1
 devops program_1
 
-#Devops
+# Devops
 
-'''bash
+```bash
 Bash commands
-'''
+```
