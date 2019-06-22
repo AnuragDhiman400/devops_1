@@ -6,3 +6,7 @@ devops program_1
 ```bash
 Bash commands
 ```
+
+## topics to cover
+* Git
+* GITLAB
