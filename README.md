@@ -10,3 +10,4 @@ Bash commands
 ## topics to cover
 * Git
 * GITLAB
+* bitbucket
